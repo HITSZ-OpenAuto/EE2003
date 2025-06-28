@@ -10,6 +10,10 @@
 ![实验8%](https://img.shields.io/badge/实验-8%25-wheat)
 ![期末考试66%](https://img.shields.io/badge/%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95-66%25-wheat)
 
+![总学时32](https://img.shields.io/badge/总学时-32-wheat)
+![授课28](https://img.shields.io/badge/授课-28-wheat) 
+![实验4](https://img.shields.io/badge/实验-4-wheat)
+
 23 级工科试验班（自动化与电气工程）由于《电磁场》与《控制科学中的代数基础》一起作为大类二选一课程放进了`限选`而变为考查课，其他级都是考试课。
 
 ## 教材和参考书
