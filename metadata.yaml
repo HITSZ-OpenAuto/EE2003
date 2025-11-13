@@ -1,0 +1,164 @@
+ID: "EE2003"
+SimilarID: []
+Name: "电磁场"
+CourseProperty:
+  - Year: "2020_2021"
+    Major:
+      - Name: ["电气"]
+        Degree: "本"
+    GradeSemesters:
+      - Grade: "大三"
+        Semester: "秋"
+    CourseType: ""
+    CourseID: "EE2003"
+    CourseName: "电磁场"
+    Credit: "2.0"
+    CourseHour: "32.0"
+    GPAInfluence: "GPA"
+    GroupCourse:
+      Link: ""
+      Desc: ""
+      Name: ""
+      Ids: ["", "", ""]
+    GradeComposition:
+      - Name: "作业"
+        Percentage: "14"
+      - Name: "MOOC"
+        Percentage: "12"
+      - Name: "实验"
+        Percentage: "8"
+      - Name: "期末考试"
+        Percentage: "66"
+    CourseHourComposition:
+      - Name: "授课"
+        Hour: "28"
+      - Name: "实验"
+        Hour: "4"
+  - Year: "2021_2022"
+    Major:
+      - Name: ["电气"]
+        Degree: "本"
+    GradeSemesters:
+      - Grade: "大三"
+        Semester: "秋"
+    CourseType: ""
+    CourseID: "EE2003"
+    CourseName: "电磁场"
+    Credit: "2.0"
+    CourseHour: "32.0"
+    GPAInfluence: "GPA"
+    GroupCourse:
+      Link: ""
+      Desc: ""
+      Name: ""
+      Ids: ["", "", ""]
+    GradeComposition:
+      - Name: "作业"
+        Percentage: "14"
+      - Name: "MOOC"
+        Percentage: "12"
+      - Name: "实验"
+        Percentage: "8"
+      - Name: "期末考试"
+        Percentage: "66"
+    CourseHourComposition:
+      - Name: "授课"
+        Hour: "28"
+      - Name: "实验"
+        Hour: "4"
+  - Year: "2022_2023"
+    Major:
+      - Name: ["电气"]
+        Degree: "本"
+    GradeSemesters:
+      - Grade: "大三"
+        Semester: "秋"
+    CourseType: "必修"
+    CourseID: "EE2003"
+    CourseName: "电磁场"
+    Credit: "2.0"
+    CourseHour: "32.0"
+    GPAInfluence: "核心权重"
+    GroupCourse:
+      Link: ""
+      Desc: ""
+      Name: ""
+      Ids: ["", "", ""]
+    GradeComposition:
+      - Name: "作业"
+        Percentage: "14"
+      - Name: "MOOC"
+        Percentage: "12"
+      - Name: "实验"
+        Percentage: "8"
+      - Name: "期末考试"
+        Percentage: "66"
+    CourseHourComposition:
+      - Name: "授课"
+        Hour: "28"
+      - Name: "实验"
+        Hour: "4"
+  - Year: "2023_2024"
+    Major:
+      - Name: ["电气"]
+        Degree: "本"
+    GradeSemesters:
+      - Grade: "大三"
+        Semester: "秋"
+    CourseType: "必修"
+    CourseID: "EE2003"
+    CourseName: "电磁场"
+    Credit: "2.0"
+    CourseHour: "32.0"
+    GPAInfluence: "核心权重"
+    GroupCourse:
+      Link: ""
+      Desc: ""
+      Name: ""
+      Ids: ["", "", ""]
+    GradeComposition:
+      - Name: "作业"
+        Percentage: "14"
+      - Name: "MOOC"
+        Percentage: "12"
+      - Name: "实验"
+        Percentage: "8"
+      - Name: "期末考试"
+        Percentage: "66"
+    CourseHourComposition:
+      - Name: "授课"
+        Hour: "28"
+      - Name: "实验"
+        Hour: "4"
+  - Year: "2024_2025"
+    Major:
+      - Name: ["电气", "工科试验班（自动化与电气工程）"]
+        Degree: "本"
+    GradeSemesters:
+      - Grade: "大三"
+        Semester: "秋"
+    CourseType: "必修"
+    CourseID: "EE2003"
+    CourseName: "电磁场"
+    Credit: "2.0"
+    CourseHour: "32.0"
+    GPAInfluence: "核心权重"
+    GroupCourse:
+      Link: ""
+      Desc: ""
+      Name: ""
+      Ids: ["", "", ""]
+    GradeComposition:
+      - Name: "作业"
+        Percentage: "14"
+      - Name: "MOOC"
+        Percentage: "12"
+      - Name: "实验"
+        Percentage: "8"
+      - Name: "期末考试"
+        Percentage: "66"
+    CourseHourComposition:
+      - Name: "授课"
+        Hour: "28"
+      - Name: "实验"
+        Hour: "4"
