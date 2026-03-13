@@ -1,18 +1,18 @@
 course_name = "电磁场"
-repo_type = "normal"
 course_code = "EE2003"
-
+repo_type = "normal"
 description = "23 级工科试验班（自动化与电气工程）由于《电磁场》与《控制科学中的代数基础》一起作为大类二选一课程放进了`限选`而变为考查课，其他级都是考试课。"
 
-[[lecturers]]
+[lecturers]
+
+[[lecturers.items]]
 name = "张弦"
 
-[[lecturers.reviews]]
+[[lecturers.items.reviews]]
 content = """
 授课风格：活力满满，超级讲课人
 听课建议：在前期速度较慢的时候边做笔记时注意理解相关推导，后期速度起飞时课后及时整理上课内容。
 """
-
 
 [[sections]]
 title = "教材"

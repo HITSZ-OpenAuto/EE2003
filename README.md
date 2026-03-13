@@ -12,6 +12,7 @@
 
 ## 授课教师
 
+<!-- TOML-LECTURERS: part="items" -->
 - 张弦
   <!-- TOML-ITEM: id="review-张弦-1" -->
   - 授课风格：活力满满，超级讲课人
