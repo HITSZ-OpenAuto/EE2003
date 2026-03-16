@@ -34,7 +34,7 @@ author = { name = "Gaster", link = "https://github.com/WDGaster703", date = "202
 title = "关于实验"
 
 [[sections.items]]
-content = "实验共两个，分别是使用 MatLab 进行 DFM 仿真和适用 FEMM 软件进行 DEM 仿真。这两种方法是电磁场数值分析的两种重要方法。初上手可能会被卡住，指导书看不懂时多像老师提问。"
+content = "实验共两个，分别是使用 MatLab 进行 DFM 仿真和使用 FEMM 软件进行 DEM 仿真。这两种方法是电磁场数值分析的两种重要方法。初上手可能会被卡住，指导书看不懂时多像老师提问。"
 author = { name = "Gaster", link = "https://github.com/WDGaster703", date = "2025-06" }
 
 [[sections]]
