@@ -8,8 +8,6 @@
 ![实验8%](https://img.shields.io/badge/实验-8%25-wheat)
 ![期末考试66%](https://img.shields.io/badge/期末考试-66%25-wheat)
 
-23 级工科试验班（自动化与电气工程）由于《电磁场》与《控制科学中的代数基础》一起作为大类二选一课程放进了`限选`而变为考查课，其他级都是考试课。
-
 ## 授课教师
 
 <!-- TOML-LECTURERS: part="items" -->
@@ -24,12 +22,32 @@
 <!-- TOML-ITEM: id="item-教材-1" -->
 
 - **工程电磁场导论**（冯慈璋 / 马西奎 / 高等教育出版社 / 第四版 / textbook）
+    - 主教材为这一本，老师的符号也与本书一致，但是后期会跳过部分内容，如需按照课本学习，可以参考老师的预习 PPT 进行取舍。
 - **电动力学导论**（David.J.Griffiths / 第三版 / textbook）
+    - 此书为电磁场很经典一本教材，但是符号与国内颇有不同。
 
-## 课程内容
-<!-- TOML-SECTION: title="课程内容" -->
+## 关于考试
+<!-- TOML-SECTION: title="关于考试" -->
 
-<!-- TOML-ITEM: id="item-课程内容-1" -->
+<!-- TOML-ITEM: id="item-关于考试-1" -->
+
+考试题目大多出自PPT例题、作业题、MOOC 测试题，有许多概念性辨析的题目，注意理解相关概念，平时熟练掌握的话并不难以完成。
+
+> 文 / [Gaster](https://github.com/WDGaster703)，2025-06
+
+## 关于实验
+<!-- TOML-SECTION: title="关于实验" -->
+
+<!-- TOML-ITEM: id="item-关于实验-1" -->
+
+实验共两个，分别是使用 MatLab 进行 DFM 仿真和使用 FEMM 软件进行 DEM 仿真。这两种方法是电磁场数值分析的两种重要方法。初上手可能会被卡住，指导书看不懂时多像老师提问。
+
+> 文 / [Gaster](https://github.com/WDGaster703)，2025-06
+
+## 学习建议
+<!-- TOML-SECTION: title="学习建议" -->
+
+<!-- TOML-ITEM: id="item-学习建议-1" -->
 
 第零章是矢量分析，作为全书的数学基础。第一章由熟悉的静电场分析为全书打下分析方法基础，接着恒定电场、恒定磁场，再到时变电磁场和准静态电磁场，后续的分析思路都与第一章类似。
 
@@ -37,28 +55,10 @@
 
 > 文 / [Gaster](https://github.com/WDGaster703)，2025-06
 
-## 关于考试
-<!-- TOML-SECTION: title="关于考试" -->
+<!-- TOML-ITEM: id="item-学习建议-2" -->
 
-<!-- TOML-ITEM: id="item-关于考试-1" -->
+老师讲的很好，备考时主要复习 PPT，作业题目和 MOOC 题目。
 
-考试题目大多出自PPT例题、作业题、MOOC测试题，有许多概念性辨析的题目，注意理解相关概念，平时熟练掌握的话并不难以完成。
-
-> 文 / [Gaster](https://github.com/WDGaster703)，2025-06
-
-<!-- TOML-ITEM: id="item-关于考试-2" -->
-
-老师讲的很好，备考时主要复习PPT，作业题目和MOOC题目。
-
-MOOC尽量少丢分，不划算。
+MOOC 尽量少丢分，不划算。
 
 > 文 / [SSC](https://github.com/SSC202)，2024-12
-
-## 关于实验
-<!-- TOML-SECTION: title="关于实验" -->
-
-<!-- TOML-ITEM: id="item-关于实验-1" -->
-
-实验共两个，分别是使用MatLab进行DFM仿真和适用FEMM软件进行DEM仿真。这两种方法是电磁场数值分析的两种重要方法。初上手可能会被卡住，指导书看不懂时多像老师提问。
-
-> 文 / [Gaster](https://github.com/WDGaster703)，2025-06

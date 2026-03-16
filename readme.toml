@@ -55,4 +55,3 @@ content = """
 MOOC 尽量少丢分，不划算。
 """
 author = { name = "SSC", link = "https://github.com/SSC202", date = "2024-12" }
-
