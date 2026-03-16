@@ -1,7 +1,6 @@
 course_name = "电磁场"
 course_code = "EE2003"
 repo_type = "normal"
-description = "23 级工科试验班（自动化与电气工程）由于《电磁场》与《控制科学中的代数基础》一起作为大类二选一课程放进了`限选`而变为考查课，其他级都是考试课。"
 
 [lecturers]
 
@@ -20,11 +19,26 @@ title = "教材"
 [[sections.items]]
 content = """
 - **工程电磁场导论**（冯慈璋 / 马西奎 / 高等教育出版社 / 第四版 / textbook）
+    - 主教材为这一本，老师的符号也与本书一致，但是后期会跳过部分内容，如需按照课本学习，可以参考老师的预习 PPT 进行取舍。
 - **电动力学导论**（David.J.Griffiths / 第三版 / textbook）
+    - 此书为电磁场很经典一本教材，但是符号与国内颇有不同。
 """
+[[sections]]
+title = "关于考试"
+
+[[sections.items]]
+content = "考试题目大多出自PPT例题、作业题、MOOC 测试题，有许多概念性辨析的题目，注意理解相关概念，平时熟练掌握的话并不难以完成。"
+author = { name = "Gaster", link = "https://github.com/WDGaster703", date = "2025-06" }
 
 [[sections]]
-title = "课程内容"
+title = "关于实验"
+
+[[sections.items]]
+content = "实验共两个，分别是使用 MatLab 进行 DFM 仿真和使用 FEMM 软件进行 DEM 仿真。这两种方法是电磁场数值分析的两种重要方法。初上手可能会被卡住，指导书看不懂时多像老师提问。"
+author = { name = "Gaster", link = "https://github.com/WDGaster703", date = "2025-06" }
+
+[[sections]]
+title = "学习建议"
 
 [[sections.items]]
 content = """
@@ -34,24 +48,11 @@ content = """
 """
 author = { name = "Gaster", link = "https://github.com/WDGaster703", date = "2025-06" }
 
-[[sections]]
-title = "关于考试"
-
-[[sections.items]]
-content = "考试题目大多出自PPT例题、作业题、MOOC测试题，有许多概念性辨析的题目，注意理解相关概念，平时熟练掌握的话并不难以完成。"
-author = { name = "Gaster", link = "https://github.com/WDGaster703", date = "2025-06" }
-
 [[sections.items]]
 content = """
-老师讲的很好，备考时主要复习PPT，作业题目和MOOC题目。
+老师讲的很好，备考时主要复习 PPT，作业题目和 MOOC 题目。
 
-MOOC尽量少丢分，不划算。
+MOOC 尽量少丢分，不划算。
 """
 author = { name = "SSC", link = "https://github.com/SSC202", date = "2024-12" }
 
-[[sections]]
-title = "关于实验"
-
-[[sections.items]]
-content = "实验共两个，分别是使用MatLab进行DFM仿真和适用FEMM软件进行DEM仿真。这两种方法是电磁场数值分析的两种重要方法。初上手可能会被卡住，指导书看不懂时多像老师提问。"
-author = { name = "Gaster", link = "https://github.com/WDGaster703", date = "2025-06" }
