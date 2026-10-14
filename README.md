@@ -1,12 +1,5 @@
 # EE2003 - 电磁场
 <!-- TOML-META: repo_type="normal" -->
-<!-- TOML-BADGES: source="grades_summary" -->
-
-![成绩构成](https://img.shields.io/badge/成绩构成-gold)
-![作业14%](https://img.shields.io/badge/作业-14%25-wheat)
-![MOOC12%](https://img.shields.io/badge/MOOC-12%25-wheat)
-![实验8%](https://img.shields.io/badge/实验-8%25-wheat)
-![期末考试66%](https://img.shields.io/badge/期末考试-66%25-wheat)
 
 ## 授课教师
 
